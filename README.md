@@ -5,22 +5,22 @@
 
 [какой кейс решаем](https://github.com/kylchika/guess/edit/main/README.md#какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/kylchika/alex/blob/main/project_0/README.md#краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/kylchika/guess/edit/main/README.md#краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/kylchika/alex/blob/main/project_0/README.md#этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/kylchika/guess/edit/main/README.md#этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/kylchika/alex/blob/main/project_0/README.md#результаты)
+[5. Результат](https://github.com/kylchika/guess/edit/main/README.md#результат)
 
-[6. Выводы](https://github.com/kylchika/alex/blob/main/project_0/README.md#выводы)
+[6. Выводы](https://github.com/kylchika/guess/edit/main/README.md#выводы)
 
 ### Описание проекта
-Угадать загадонное компьютером число за минимальное число попыток
+Угадать загаданное число за 20 попыток и меньше
 
-:arrow_up:[к оглавлению](https://github.com/kylchika/alex/blob/main/project_0/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/kylchika/guess/edit/main/README.md#оглавление)
 
 
 ### Какой кейс решаем?
-Нужно написать программу которая угадывает число за минимальное число попыток
+Нужно написать программу которая угадывает число меньше чем за 20 попыток
 
 **Условия соревнования:**
 
@@ -37,22 +37,22 @@
 - Учимся писать хороший код на python.
 
 ### Краткая информация о данных
-В ходе решения задачи используем целые цисла в диапазоне от 1 до 1000.
+В ходе решения задачи используем целые цисла в диапазоне от 1 до 100
 
-:arrow_up:[к оглавлению](https://github.com/kylchika/alex/blob/main/project_0/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/kylchika/guess/edit/main/README.md#оглавление)
 
 ### Этапы работы над проектом
 - Создание функции, которая ищет переданное в нее число и возвращает кол-во попыток.
 - Создание функции, которая принимает в качестве аргумента вышеуказанную функцию, применяет ее к каждому элементу списка из 1000 рандомных чисел и возвращает среднее среднее кол-во попыток.
 
-:arrow_up:[к оглавлению](https://github.com/kylchika/alex/blob/main/project_0/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/kylchika/guess/edit/main/README.md#оглавление)
 
 ### Результаты:
 
 
-:arrow_up:[к оглавлению](https://github.com/kylchika/alex/blob/main/project_0/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/kylchika/guess/edit/main/README.md#оглавление)
 
 ### Выводы:
 Сокращаяя диапазон поиска числа в два раза с каждой итерацией, можно значительно сократить время поиска или кол-во попыток найти число.
 
-:arrow_up:[к оглавлению](https://github.com/kylchika/alex/blob/main/project_0/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/kylchika/guess/edit/main/README.md#оглавление)
